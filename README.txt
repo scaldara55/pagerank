@@ -1,3 +1,6 @@
+# Just adding a couple
+# of lines to play with github
+#
 Simple Python Search Spider, Page Ranker, and Visualizer
 
 This is a set of programs that emulate some of the functions of a 
